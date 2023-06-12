@@ -820,11 +820,29 @@ while True:
         input('\nBusca Finalizada!')
         break
     elif op == str(7):
+        exprealty()
+        driver.quit()
+        input('\nBusca Finalizada!')
+        break
+    elif op == str(8):
+        exitrealty()
+        driver.quit()
+        input('\nBusca Finalizada!')
+        break
+    elif op == str(9):
+        sothersby()
+        driver.quit()
+        input('\nBusca Finalizada!')
+        break
+    elif op == str(10):
         remax()
         coldwellbanker()
         century21()
         bhhs()
         compass()
+        exprealty()
+        exitrealty()
+        sothersby()
         driver.quit()
         input('\nBusca Finalizada!')
         break

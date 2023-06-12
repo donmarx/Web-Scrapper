@@ -1,5 +1,5 @@
 # Web-Scrapper
-Web Scrapper to scrape real estate agent information from a few websites.
+Web Scrapper to scrape real estate agent informations.
 
 ## Usage
 The code will look for a "List.xlsx" excel file that has the city's name in the first column and the state in the second column.
